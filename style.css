@@ -14,4 +14,7 @@ p{
 .kontener
 {
     background-color: chartreuse;
+
+    display: flex;
+    justify-content:space-around ;
 }
