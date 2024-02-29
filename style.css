@@ -2,8 +2,19 @@ body{
 
     background-color: cadetblue;
 }
+
+
 p{
     background-color: azure;
     width: 200px;
     height: 200px;
+    font-size: 3em;
+}
+
+.kontener
+{
+    background-color: chartreuse;
+
+    display: flex;
+    justify-content:space-around ;
 }
