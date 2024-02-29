@@ -2,8 +2,15 @@ body{
 
     background-color: cadetblue;
 }
+
+
 p{
     background-color: azure;
     width: 200px;
     height: 200px;
+}
+
+.kontener
+{
+    background-color: chartreuse;
 }
